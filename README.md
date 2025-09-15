@@ -1,9 +1,9 @@
 
-# 🚓 FiveM Resource - freeback_killsync
+# 🚓 FiveM Resource - freeback_antikilldesync
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/YourGitHubName/freeback_killsync)
-![GitHub last commit](https://img.shields.io/github/last-commit/YourGitHubName/freeback_killsync)
-![GitHub issues](https://img.shields.io/github/issues/YourGitHubName/freeback_killsync)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Freebackkk/freeback_killsync)
+![GitHub last commit](https://img.shields.io/github/last-commit/Freebackkk/freeback_killsync)
+![GitHub issues](https://img.shields.io/github/issues/Freebackkk/freeback_killsync)
 ![License](https://img.shields.io/badge/license-Custom-blue)
 
 A custom FiveM resource for improved kill synchronization on roleplay servers.  
@@ -20,7 +20,7 @@ This script ensures accurate and reliable kill events between players, reducing 
 ---
 
 ## 📥 Installation
-1. Download the latest release from the [Releases](https://github.com/YourGitHubName/freeback_killsync/releases) page.  
+1. Download the latest release from the [Releases](https://github.com/Freebackkk/freeback_killsync/releases) page.  
 2. Extract the folder into your FiveM `resources` directory.  
 3. Add the following line to your `server.cfg`:
 	```cfg
