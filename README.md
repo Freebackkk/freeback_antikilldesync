@@ -1,5 +1,5 @@
 
-# 🚓 FiveM Resource - freeback_antikilldesync
+# 🛡️ FiveM Resource - freeback_antikilldesync
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Freebackkk/freeback_antikilldesync)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Freebackkk/freeback_antikilldesync)
@@ -23,6 +23,6 @@ This script ensures accurate and reliable kill events between players, reducing 
 1. Download the latest release from the [Releases](https://github.com/Freebackkk/freeback_antikilldesync/releases) page.  
 2. Extract the folder into your FiveM `resources` directory.  
 3. Add the following line to your `server.cfg`:
-	```cfg
-	ensure freeback_killsync
-	```
+    ```cfg
+    ensure freeback_antikilldesync
+    ```
