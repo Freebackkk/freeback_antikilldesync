@@ -13,8 +13,7 @@ This script ensures accurate and reliable kill events between players, reducing 
 
 ## ✨ Features
 - ⚡ Enhanced kill synchronization between clients and server  
-- ⚙️ Fully configurable via `config.lua`  
-- 🔔 Optional integration with notification systems  
+- ⚙️ Fully configurable via `config.lua` 
 - 🎯 Lightweight and optimized for performance  
 
 ---
