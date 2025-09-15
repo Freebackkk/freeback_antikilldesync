@@ -1,5 +1,5 @@
 
-# 🛡️ [FREE] FiveM Resource - freeback_antikilldesync
+# 🛡️ [Free] FiveM Resource - freeback_antikilldesync
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Freebackkk/freeback_antikilldesync)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Freebackkk/freeback_antikilldesync)
