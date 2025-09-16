@@ -6,11 +6,11 @@ description 'Script for ESX PvP servers that fixes desync issues where a player 
 version '1.0.0'
 
 client_scripts {
-    'client.lua'
+    'client/*.lua'
 }
 
 server_scripts {
-    'server.lua' 
+    'server/*.lua' 
 }
 
 shared_scripts {
